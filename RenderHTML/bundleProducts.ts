@@ -1,7 +1,7 @@
 import { Product } from "../shared/models";
 import { chunk } from "lodash";
 
-const BUNDLE_SIZE = 5_000;
+const BUNDLE_SIZE = 1000;
 
 export type ProductBundle = {
     bundleIndex: number;
