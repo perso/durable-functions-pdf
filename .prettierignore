@@ -1,0 +1,7 @@
+# Project Files
+.vscode
+.idea
+
+# Build artifacts
+node_modules
+dist
